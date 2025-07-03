@@ -1,0 +1,20 @@
+{
+  "name": "Datacoin Token List",
+  "tags": {},
+  "timestamp": "2025-07-03T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "Bngnm82vBt6HKkVyhnUq5rwCmJ1zYqS7D1DLrr2ipump",
+      "symbol": "DATA",
+      "name": "Datacoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Tomtech28/datacoin-assets/main/logo.png",
+      "tags": [
+        "utility-token",
+        "data",
+        "solana"
+      ]
+    }
+  ]
+}
